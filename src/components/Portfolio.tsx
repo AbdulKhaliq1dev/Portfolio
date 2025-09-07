@@ -1,6 +1,7 @@
 import { ExternalLink, Github, Plus } from 'lucide-react';
 import uiuxCaseStudy from '@/assets/uiux-case-study.jpg';
 import fullstackApp from '@/assets/fullstack-app.jpg';
+import ecommerceImage from '@/assets/E-Commerce.png';
 
 const Portfolio = () => {
   // Placeholder projects for future updates
@@ -9,7 +10,7 @@ const Portfolio = () => {
       title: 'E-Commerce Platform',
       description: 'Modern e-commerce solution with advanced features and seamless user experience - Coming Soon.',
       category: 'Web Development',
-      image: '/placeholder.svg'
+      image: ecommerceImage
     },
     {
       title: 'UI/UX Case Study',

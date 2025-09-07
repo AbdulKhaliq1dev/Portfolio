@@ -1,5 +1,5 @@
 import { Github, Linkedin, Instagram } from 'lucide-react';
-import profileImage from '@/assets/abdul-khaliq-profile-new.jpg';
+import profileImage from '@/assets/abdul-khaliq-profile.png';
 
 const Hero = () => {
 
@@ -46,7 +46,7 @@ const Hero = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/abdulkhaliq224/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-card hover:bg-primary hover:text-primary-foreground rounded-full transition-all duration-300 hover:scale-110 glow-effect"
